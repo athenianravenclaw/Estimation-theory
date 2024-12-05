@@ -1,5 +1,5 @@
 # Estimation-theory
-Standard estimation methods
+Standard estimation and sampling methods
 
 1. MVUE using CRLB
 2. Kalman Filter
